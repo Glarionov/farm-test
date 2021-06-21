@@ -1,7 +1,5 @@
 <?php
 
-
-
 namespace Farm;
 
 class FarmEvents
